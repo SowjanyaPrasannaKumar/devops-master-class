@@ -1,5 +1,5 @@
 DevOps is all about People, Process and Tools. In this course, you will learn to do DevOps using Docker, Kubernetes, Ansible, Terraform, Azure DevOps and Jenkins. You will play with 3 different clouds - AWS, Azure and Google Cloud.
-
+learning
 Agile
 - Individuals and interactions over processes and tools,  Working software over comprehensive documentation, Customer collaboration over contract negotiation,  Responding to change over following a plan
 - Faster Feedback
